@@ -62,3 +62,5 @@ PC作業が多く、作業の合間に癒しが欲しい方。
 - PWA
 - devise gem
 - react-rails gem
+- Framer Motion
+- GSAP (GreenSock Animation Platform)
