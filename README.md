@@ -67,3 +67,6 @@ PC作業が多く、作業の合間に癒しが欲しい方。
 
 ■ 画面遷移図 
 https://www.figma.com/design/A0RihBRVCbtBeOo9QCgoW8/virtual_pet-%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=4S1xDdcr9vnr5qCP-1
+
+■ ER図
+https://drive.google.com/file/d/1ndeMAWF9PCiFJEwyL0M76-5SSlCZc3lx/view?usp=sharing
