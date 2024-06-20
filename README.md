@@ -58,9 +58,8 @@ PC作業が多く、作業の合間に癒しが欲しい方。
 
 ■ 機能の実装方針予定
 
-- Electron
+- next.js
 - devise gem
-- react-rails gem
 - Framer Motion
 - GSAP (GreenSock Animation Platform)
 - Sidekiqg
