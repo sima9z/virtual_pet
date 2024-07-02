@@ -58,8 +58,10 @@ PC作業が多く、作業の合間に癒しが欲しい方。
 
 ■ 機能の実装方針予定
 
-- next.js
-- devise gem
+- Next.js
+- Rails APIモード
+- Typescirpt
+- rack-cors gem
 - Framer Motion
 - GSAP (GreenSock Animation Platform)
 - Sidekiqg
