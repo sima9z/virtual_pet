@@ -60,6 +60,7 @@ PC作業が多く、作業の合間に癒しが欲しい方。
 
 - Next.js
 - Rails APIモード
+- sorcery gem
 - Typescirpt
 - rack-cors gem
 - Framer Motion
