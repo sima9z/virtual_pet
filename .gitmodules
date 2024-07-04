@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:sima9z/virtual_pet_front.git
+[submodule "back"]
+	path = back
+	url = git@github.com:sima9z/virtual_pet_back.git
