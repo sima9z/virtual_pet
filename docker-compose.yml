@@ -28,6 +28,8 @@ services:
     stdin_open: true
     env_file:
       - ./back/.env
+    environment:
+      REDIS_URL: redis://redis:6379/0
   front:
     build:
       context: ./front/
@@ -39,3 +41,4 @@ services:
       - "8000:4000"
 volumes:
   postgres_data:
+
